@@ -1,3 +1,4 @@
 /target
 # this is a library
 /Cargo.lock
+process-repo.log
